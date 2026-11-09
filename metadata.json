@@ -1,0 +1,6 @@
+{
+  "name": "Prime Shop - Óculos de Sol, Grau, Luz Azul e Esportivos",
+  "description": "Loja oficial Prime Shop: óculos de sol, armações de grau, luz azul e modelos esportivos com proteção UV400 e troca grátis em 7 dias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
